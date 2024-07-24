@@ -2,7 +2,6 @@
 
 int main()
 {
-	//Edit main.cpp from MAIN branch:
-	std::cout << "Hellon world";
+	std::cout << "main function\n";
 
 }

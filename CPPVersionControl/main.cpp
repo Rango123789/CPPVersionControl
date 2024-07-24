@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "main function";
+	//edit main.cpp frpm feature
+	std::cout << "Wellcome!";
 
 }
